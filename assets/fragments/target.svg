@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="16" fill="#F0F2F5"/>
+  <rect x="16" y="16" width="88" height="88" rx="12" fill="#fff" stroke="#BCC3CD" stroke-width="2" stroke-dasharray="6 4"/>
+  <path d="M24 78 Q44 58 60 68 T96 52" stroke="#9CB4BC" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <circle cx="96" cy="52" r="5" fill="#9CB4BC"/>
+  <text x="60" y="58" text-anchor="middle" font-family="serif" font-size="28" font-weight="bold" fill="#D26B5B">?</text>
+  <text x="60" y="78" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#6B778C">信鸽飞了</text>
+  <text x="60" y="92" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#6B778C">多远？</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="16" fill="#F9F6ED"/>
+  <path d="M8 70 Q30 50 52 58" stroke="#9CB4BC" stroke-width="2" stroke-dasharray="4 3" fill="none"/>
+  <path d="M68 58 Q90 50 112 70" stroke="#9CB4BC" stroke-width="2" stroke-dasharray="4 3" fill="none"/>
+  <ellipse cx="60" cy="88" rx="24" ry="5" fill="#D4C3A3" opacity="0.4"/>
+  <path d="M38 62c8-10 20-14 22-14s14 4 22 14c-6 8-14 12-22 12s-16-4-22-12z" fill="#9CB4BC" stroke="#3E3831" stroke-width="1.5"/>
+  <path d="M60 48c0-6 4-10 8-10 6 0 10 6 10 14 0 8-6 14-10 14-4 0-8-6-8-18z" fill="#E8DECC" stroke="#3E3831" stroke-width="1.5"/>
+  <circle cx="66" cy="52" r="2" fill="#3E3831"/>
+  <path d="M72 54l8 4-6 2z" fill="#D26B5B"/>
+  <path d="M28 56l6-4 2 6z" fill="#A3B899" opacity="0.7"/>
+  <path d="M76 56l6-4 2 6z" fill="#A3B899" opacity="0.7"/>
+  <rect x="38" y="96" width="44" height="16" rx="8" fill="#E6B95C"/>
+  <text x="60" y="107" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#3E3831">120步/分</text>
+</svg>

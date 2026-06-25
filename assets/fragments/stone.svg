@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="16" fill="#ECF2ED"/>
+  <ellipse cx="60" cy="98" rx="30" ry="6" fill="#C1D4C8" opacity="0.5"/>
+  <path d="M24 36 L96 36 L88 92 L32 92 Z" fill="#D8E6DE" stroke="#588065" stroke-width="2"/>
+  <path d="M30 42 L90 42 L84 86 L36 86 Z" fill="#E8F0EA"/>
+  <text x="60" y="58" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#3E3831">路程</text>
+  <text x="60" y="72" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#588065">=</text>
+  <text x="42" y="84" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#3E3831">速度</text>
+  <text x="60" y="84" text-anchor="middle" font-family="serif" font-size="12" fill="#588065">×</text>
+  <text x="78" y="84" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#3E3831">时间</text>
+</svg>
